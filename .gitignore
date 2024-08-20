@@ -1,0 +1,44 @@
+# Go build output
+bin/
+build/
+dist/
+*.exe
+*.out
+*.test
+*.so
+*.dylib
+*.a
+
+# Dependencies
+vendor/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Go module files
+go.sum
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage.out
+*.cover
+
+# Miscellaneous
+*.tmp
+*.bak
+*.orig
