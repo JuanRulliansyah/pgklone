@@ -1,6 +1,6 @@
 #!/bin/sh
 
-repo_url="https://github.com/JuanRulliansyah/pgklone/releases/download/v1.0.1/pgklone"
+repo_url="https://github.com/JuanRulliansyah/pgklone/releases/download/v1.0.0/pgklone"
 install_dir="/usr/local/bin"
 target_name="pgklone"
 
